@@ -1,0 +1,12 @@
+{
+  "name": "clipboardjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  },
+  "scripts": {
+    "serve": "http-server ./docs"
+  }
+}
